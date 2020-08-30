@@ -30,9 +30,10 @@
             </td>
             </tr>
         </form>
+        </table>
         <?php 
    if(isset($_SESSION['error'])){
-    echo "<p>".$_SESSION['error'];
+    echo "<p align='center' >".$_SESSION['error'];
     unset($_SESSION['error']);
     }?>
 </body>
