@@ -35,7 +35,7 @@
     </table>
    <?php 
    if(isset($_SESSION['error'])){
-    echo "<p align='center' font-color='red'>".$_SESSION['error'];
+    echo "<p align='center'>".$_SESSION['error'];
     unset($_SESSION['error']);
     }?>
 </body>
