@@ -2,7 +2,7 @@
 ออกแบบเว็บเก็บการบ้านโดยมีการเชื่อมฐานข้อมูลกับAppServอยู่ซึ่งมีหลัการทำงานดังนี้
 
 1.มีการloginเพื่อแยกฐานข้อมูลได้ว่าlistการบ้านนี้เป็นของใคร
-<img src="https://user-images.githubusercontent.com/50855686/91655285-a8dbc780-ead9-11ea-95eb-b80c739b659d.png">
+<img src="https://user-images.githubusercontent.com/50855686/91655284-a8433100-ead9-11ea-8ca9-9bddbe72e8e8.png">
 
 2.หากพึ่งเคยใช้จะมีให้Registerก่อน
 <img src="https://user-images.githubusercontent.com/50855686/91655288-aa0cf480-ead9-11ea-8d29-8901f2fd8e4d.png">
@@ -31,3 +31,4 @@
 
 7.กดlogoutเพื่อออกจากระบบ
 <img src="https://user-images.githubusercontent.com/50855686/91655282-a7aa9a80-ead9-11ea-99ef-c9ad6ab995da.png">
+<img src="https://user-images.githubusercontent.com/50855686/91655284-a8433100-ead9-11ea-8ca9-9bddbe72e8e8.png">
