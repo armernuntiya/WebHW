@@ -15,14 +15,14 @@
 
     <table>
     <tr>
-        <td><h2>Login<h2>
+        <td><h2>Login</h2>
         </td>
     </tr>
     <form action="logindb.php" method="POST">
        
     <tr>
         <td><input type='text' name='username' placeholder='uesername'> 
-        <br>
+        <p>
         <input type='text' name='password' placeholder="password">
         </td>
     </tr>
