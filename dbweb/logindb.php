@@ -18,7 +18,6 @@
             array_push($errors,"Password is required");
         }
 
-    }
     
     if(count($errors)==0){
         $query = "SELECT * FROM user WHERE Username = '$username' AND Password = '$password'";
@@ -34,5 +33,9 @@
             header('location: login.php');
         }
     }
-
+    else{
+        $_SESSION['error']='Something Wrong';
+        header('location: login.php');
+    }
+}
                 ?>
