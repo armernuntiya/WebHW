@@ -13,6 +13,7 @@
 
 3.สามารถกดUpdateการบ้านที่มาใหม่ได้
 <img src="https://user-images.githubusercontent.com/50855686/91655598-f0fbe980-eadb-11ea-895c-5d62b380c494.png">
+<img src="https://user-images.githubusercontent.com/50855686/91655289-aa0cf480-ead9-11ea-9460-6ed8c8d11f2b.png">
 <img src="https://user-images.githubusercontent.com/50855686/91655276-a5e0d700-ead9-11ea-8dd7-cdd1faa79ec7.png">
 การบ้านที่Updateไปจะถูกเก็บอยู่ในตัวฐานข้อมูลใน AppServ
 <img src="https://user-images.githubusercontent.com/50855686/91655273-a4afaa00-ead9-11ea-84ad-74f5d5130128.png">
